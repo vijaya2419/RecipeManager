@@ -1,0 +1,16 @@
+{
+  "pasta": {
+    "ingredients": [
+      "Penne, Tomata, Cheese, Oil"
+    ],
+    "instructions": []
+  },
+  "Pizza": {
+    "ingredients": [
+      "Dough, Salt, Water"
+    ],
+    "instructions": [
+      "Follow the instructions"
+    ]
+  }
+}
